@@ -1,0 +1,2 @@
+this project of online book store in which it contains front end is made of html and css and backend is made my servlet jdbc and backend database is mysql.
+I've given dummy databse or if not and or somaone have any doubts  :- sid7bhandari@gmail.com
